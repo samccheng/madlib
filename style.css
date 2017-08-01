@@ -1,0 +1,50 @@
+body {
+	background: rgba(131, 136, 177, .75);
+}
+
+#madlib {
+	width: 30%;
+	float: left;
+	margin-top: 2%;
+	margin-left: 30px;
+}
+
+#story {
+	display: none;
+	width: 60%;
+	float: left;
+	margin-top: 2%;
+	font-size: 30px;
+}
+
+label {
+	display: block;
+	font-size: 20px;
+}
+
+input {
+	height: 25px;
+	width: 220px;
+	margin: 5px 0;
+	font-size: 18px;
+	border: 0;
+}
+
+h1 {
+	color: orange;
+	font-size: 60px;
+	margin: 30px;
+	margin-bottom: 15px;
+	
+}
+
+button {
+	margin-top: 15px;
+	text-decoration: none;
+	width: 220px;
+	background: rgb(121, 113, 158);
+	border: 0;
+	height: 35px;
+	font-size: 20px;
+
+}
